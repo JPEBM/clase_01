@@ -1,0 +1,31 @@
+body
+{
+    background-color: green;
+}
+
+header
+{
+    background-color: greenyellow;
+    text-align: center;
+    color: indianred;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+section article p 
+{
+    color: white;
+    font-size: 20px;
+
+}
+
+figure img
+{
+    text-align: center;
+}
+footer
+{
+    background-color: white;
+    max-width: 100%;
+}
+
+
